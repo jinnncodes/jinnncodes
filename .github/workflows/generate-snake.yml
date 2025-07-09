@@ -10,21 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate GitHub contribution snake animation
-        id: generate # 👈 this line is critical
+        id: generate
         uses: Platane/snk@master
         with:
           github_user_name: jinnncodes
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Optional: gif_out_path: dist/snake.gif
 
       - name: Check generated files
         run: |
-          ls -la dist
-          file dist/* || echo "No files generated"
+          echo "Checking dist folder"
+          ls -la dist || echo "dist folder missing"
+          file dist/* || echo "No files found"
 
       - name: Push to output branch
-        if: success() && steps.generate.outcome == 'success'
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
