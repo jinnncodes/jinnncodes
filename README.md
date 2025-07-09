@@ -4,9 +4,9 @@
 
 ## 🔥 Animated Contributions
 
-<div align="center">
-  ![snake gif](https://github.com/jinnncodes/jinnncodes/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jinnncodes/jinnncodes/output/github-snake-dark.svg" alt="GitHub contribution snake dark" />
+</p>
 
 ---
 
