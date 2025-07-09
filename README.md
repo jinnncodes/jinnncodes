@@ -5,13 +5,13 @@
 ## 🔥 Animated Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jinnncodes/jinnncodes/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/jinnncodes/jinnncodes/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation dark" />
 </p>
-
 
 ---
 
 ### 🛠️ Tech Stack
+
 - Fullstack Dev: React, Vue, Laravel, Node.js
 - Tools: Git, Docker, Vite, Tailwind, Prisma
 
