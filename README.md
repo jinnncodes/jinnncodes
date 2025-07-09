@@ -2,11 +2,11 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-@jinnncodes-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/jinnncodes)
 
-<!-- ## 🔥 Animated Contributions
+## 🔥 Animated Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jinnncodes/jinnncodes/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  ![snake gif](https://github.com/jinnncodes/jinnncodes/blob/output/github-snake-dark.svg)
+</div>
 
 ---
 
@@ -19,4 +19,4 @@
 
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinYourUsername&show_icons=true&theme=tokyonight)
 
---- -->
+---
