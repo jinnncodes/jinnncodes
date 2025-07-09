@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jin – a Fullstack Developer!
 
-## 🔗 Let's build something cool together
+## 🤝 Reach me at:
 
 <p align="left">
   <a href="https://x.com/jinnncodes">
@@ -21,8 +21,6 @@
 </p>
 
 ---
-
-## 🔥 Animated Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jinnncodes/jinnncodes/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
