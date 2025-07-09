@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch: # allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -16,7 +16,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Check generated files
+        run: |
+          ls -la dist
+          file dist/* || echo "No files generated"
+
       - name: Push to output branch
+        if: success() && steps.generate.outcome == 'success'
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
