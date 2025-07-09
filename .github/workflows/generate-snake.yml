@@ -9,19 +9,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v3
+
       - name: Generate GitHub contribution snake animation
-        id: generate
         uses: Platane/snk@master
         with:
           github_user_name: jinnncodes
           svg_out_path: dist/github-contribution-grid-snake.svg
-          # Optional: gif_out_path: dist/snake.gif
 
-      - name: Check generated files
+      - name: Show generated files
         run: |
-          echo "Checking dist folder"
-          ls -la dist || echo "dist folder missing"
-          file dist/* || echo "No files found"
+          ls -la dist
+          file dist/* || echo "No files created"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
