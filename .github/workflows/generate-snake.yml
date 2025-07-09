@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate GitHub contribution snake animation
+        id: generate # 👈 this line is critical
         uses: Platane/snk@master
         with:
           github_user_name: jinnncodes
