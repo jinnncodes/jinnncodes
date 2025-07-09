@@ -2,11 +2,12 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-@jinnncodes-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/jinnncodes)
 
-## 🧱 My Contributions with Style
+## 🔥 Animated Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JinYourUsername/JinYourUsername/output/github-contribution-grid-snake.svg" alt="animated contribution graph" />
+  <img src="https://raw.githubusercontent.com/jinnncodes/jinnncodes/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
