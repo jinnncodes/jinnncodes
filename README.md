@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jinnncodes&show_icons=true&theme=tokyonight" alt="Jin's GitHub stats" />
 </p>
 
