@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Jin – a Fullstack Developer!
 
+## 🔗 Let's build something cool together
+
 <p align="left">
   <a href="https://x.com/jinnncodes">
     <img src="https://img.shields.io/badge/Twitter-@jinnncodes-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
