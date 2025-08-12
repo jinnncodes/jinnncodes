@@ -4,19 +4,19 @@
 
 <p align="left">
   <a href="https://x.com/jinnncodes">
-   <img src="https://img.shields.io/badge/@jinnncodes-000000?style=for-the-badge&logo=x&logoColor=white" />
+   <img src="https://img.shields.io/badge/@jinnncodes-5c5c5c?style=for-the-badge&logo=x&logoColor=white" style="border-radius: 9px;" />
   </a>
   <a href="https://facebook.com/jinnncodess">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 9px;" />
   </a>
   <a href="https://instagram.com/jinnncodess">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 9px;" />
   </a>
   <a href="https://linkedin.com/in/jinnncodes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 9px;" />
   </a>
   <a href="https://youtube.com/@jinnncodes">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 9px;" />
   </a>
 </p>
 
